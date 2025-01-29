@@ -2,14 +2,14 @@
 Welcome to my GitHub profile! I'm passionate about technology, coding, and learning new things every day.  
 
 ### 👀 I’m interested in  
-- Power Electronics, Energy Modeling, and Renewable Energy Integration   
+- Power Electronics, Power Systems, Energy Modeling, and Renewable Energy Integration   
 - Open-source projects and collaborative learning  
 
 ### 🌱 I’m currently learning  
 - Git, GitHub, and version control best practices  
 - Simulation tools like OEMOF and RAMP  
 - Advanced Python for energy modeling and automation
-- Softwares like Homer PRO, EPLAN/Etap and few more
+- Software like Homer PRO, EPLAN/Etap, and a few more
 
 ### 💞️ I’m looking to collaborate on  
 - Open-source projects related to renewable energy and power systems  

@@ -1,9 +1,9 @@
-### 👋 Hi, I’m @Aspartem41  (He/Him)
+### 👋 Hi, I’m Romit Bhavsar  (He/Him)
 Welcome to my GitHub profile! I'm passionate about technology, coding, and learning new things every day.  
 
 ### 👀 I’m interested in  
 - Power Electronics, Power Systems, Energy Modeling, and Renewable Energy Integration   
-- Open-source projects and collaborative learning  
+- Open-source projects and collaborative learning in Python/coding
 
 ### 🌱 I’m currently learning  
 - Git, GitHub, and version control best practices  
